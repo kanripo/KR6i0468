@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 四品學法經
+#+DATE: 2015-08-30 20:20:24.336112
+#+PROPERTY: JUAN 0
