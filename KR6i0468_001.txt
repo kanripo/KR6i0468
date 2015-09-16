@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:20:23.913291
+#+DATE: 2015-08-30 20:20:25.890420
 #+TITLE: 四品學法經
 #+PROPERTY: CBETA_ID T17n0771
 #+PROPERTY: ID KR6i0468
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 771
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0468_T_000-0707c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0468_T_001-0707c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.771¶
-
- 《四品學法經》¶
+No. 771¶
+《四品學法經》¶
 ¶
 宋天竺三藏求那跋陀羅譯¶
 
@@ -54,11 +53,7 @@ No.771¶
 習故也。若諸學者，承用此律，上下相檢，乃¶
 可至竟，疾成大願。¶
 
-散侍法
-:PROPERTIES:
-:head: 散侍法
-:END:
-¶
+散侍法¶
 
 問曰：「若有善男子，欲入正道，欲依大道而¶
 不耐戒，當作何行以求福祥？」
